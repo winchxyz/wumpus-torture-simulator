@@ -236,3 +236,8 @@ This is a fan project. Wumpus is the mascot of Discord. This project is not affi
   <a href="https://winchxyz.github.io/wumpus-torture-simulator/"><b>▶ Play it now</b></a>
   · If he made you smile, a ⭐ helps a lot.
 </p>
+weapons
+buy guns
+1$ is gun
+2$ is shotgun
+309$ is minigun but for free
